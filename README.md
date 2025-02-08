@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @plgent
-- 👀 I’m interested in LaTeX/Overleaf
-- 🌱 I’m currently learning TikZ, pgfplots, tkz-euclide and the exam document class
-- 💞️ I’m looking to collaborate on Overleaf projects with my students and to teach mathematics teachers how to use LaTeX
+- 👀 I’m interested in LaTeX/Overleaf, artificial neural networks (ANNs) and Python
+- 🌱 I’m currently learning the exam document class, TikZ, tkz-euclide and PyTorch
+- 💞️ I’m looking to collaborate on Overleaf projects with my students and teaching them how to train ANNs
 - 📫 How to reach me: through GitHub
 
 <!---
