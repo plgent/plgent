@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @plgent
-- 👀 I’m interested in LaTeX/Overleaf, artificial neural networks (ANNs) and Python
-- 🌱 I’m currently learning the exam document class, TikZ, tkz-euclide and PyTorch
-- 💞️ I’m looking to collaborate on Overleaf projects with my students and teaching them how to train ANNs
-- 📫 How to reach me: through GitHub
+Hi, I’m @plgent 👋  
 
-<!---
-plgent/plgent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a mathematics teacher with a strong interest in LaTeX, piano, and artificial neural networks.  
+At the moment, I’m learning more about the `exam` document class, biber, and TikZ/tkz-euclide.
+
+I’m especially interested in collaborating on LaTeX projects for teaching and learning.
